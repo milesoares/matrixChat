@@ -9,17 +9,15 @@ Além disso, esse projeto utiliza como ferramenta de "Back-End as a Service" que
 ![visualização da tela do chat](https://i.ibb.co/VWM7RJw/chatmatrix.png)
 
 ## :hammer: Funcionalidade utilizadas no projeto
-
 - `React Js`
 - `Yarn`
 - `Supabase.io`
 - `AJAX `
 
 ## 📁 Acesso ao projeto
-**Aqui você pode acessar o [projeto](https://matrix-chat-message.vercel.app/)**
+Aqui você pode acessar o **[projeto](https://matrix-chat-message.vercel.app/)**.
 
 ## 🛠️ Abrir e rodar o projeto
-**Apresente as instruções necessárias para abrir e executar o projeto**
 Após baixar o projeto, você precisa abrir com o Visual Stude Code, além disos, é importante ter instalado e configurado o yarn no seu dispositivo para executar esse passo a passo:
 - Clique no terminal e digita: `yarn dev`
 - Depois basta acessar a url: `http://localhost:3000` que o sistema executou.
