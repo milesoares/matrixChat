@@ -20,8 +20,8 @@ Além disso, esse projeto utiliza como ferramenta de "Back-End as a Service" que
 
 ## 🛠️ Abrir e rodar o projeto
 **Apresente as instruções necessárias para abrir e executar o projeto**
-Após baixar o projeto, você precisa abrir com o Visual Stude Code e ter instalado e configurado o yarn no seu dispositivo, e executar esse passo a passo:
-- Clique no terminal e digita: yarn dev
+Após baixar o projeto, você precisa abrir com o Visual Stude Code, além disos, é importante ter instalado e configurado o yarn no seu dispositivo para executar esse passo a passo:
+- Clique no terminal e digita: `yarn dev`
 - Depois basta acessar a url: `http://localhost:3000` que o sistema executou.
 - E ponto!
 
